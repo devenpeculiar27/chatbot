@@ -1,2 +1,2 @@
 # chatbot
-python based chatbot
+Python based Powerful chatbot
